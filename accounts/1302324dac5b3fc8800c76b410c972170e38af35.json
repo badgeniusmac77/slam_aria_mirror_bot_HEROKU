@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "avian-sandbox-322012",
+  "private_key_id": "1302324dac5b3fc8800c76b410c972170e38af35",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCdSVT+sLmsIMm7\nQ7ig13u/PaG4HQz9G6mekXyPi6R//3H+XCFTrVavy8Kahc9v4FxSUNruqnx6DPOi\npYLYeA7bCiwVo6SIUpdownGkYpb4SEQSOqS44kWDpZ7l7nUiC5QhRd/jrCzXXN9A\na95lzQgpsFOg/caj3seoZarD8T6GBCREIYicVv+6wOCi3Pnq+khvDlPTaVMMM8jb\nsjnwDNyEbTDIx610TwsJEl8SEhWPxgq/1n3+HKVQE9ZZVDVZcLz5EIc4iD3Hy3JC\nc4cSCw2qgUvnGd3s9LtAit3Meb6NRAhsCX8TLHe6oXzAejvaRqETBi1e01bYurAm\ntD29WCcrAgMBAAECggEAPb00RMkgCMXSCdTaWyBabcYGfdvBZnT+TsTy7PG2f5vI\npjyJxGvNFDJaUAdoVpTuCE2+smJvfAUreVOYmdn+ktJaXaAfjHdHAZMZwpoEgq7z\nMWidkgkXmkZfqgfBKLz8x1bDPH4wF9VXuNTetn0V0C9rlE0pNNfU7XAC6OkATuAh\nEGVuiwO5evn0N8kXdB1KrgdIUND1kDaHOF7V18pAmjyvogNaB2qtxVTEvY94G4g9\nZLNlHIC6H4ynITum3gZyCBpIg3WbcB9dkrCDSHEAnwtRO9QB0ofy7lp8I/iSw6bN\ntNqqHgHausJECRkX1dd1sqa/KFBVP1WBaBS1hjbDAQKBgQDcu6bWbk1ADNQc5QQD\nrtKH477KXBJSCz0/Gsxa9x7ddmTzeAM5TdHie4VZv3gBEipJPYp9EBLNEYxzKcWU\nw7AS63EVMPmbWo+YQPhxWG1lsn1cPIDLN6alcilQocOYoOVCiLPUvPsal/IQv3K7\ntnz/uaPuIji+9vgdlkpG9z0hgQKBgQC2apwz+LxU8Yzhf7fAamwCyZtdAJZC4WBY\n3P1+VoWP89E6uysDNEO6GiYh6OfnQvEAGpr1wWNZ9Udc/0PfDZ08l5se0YKGToQI\nPU7NJl84ab2d5Ou2ivlYJjK3FmxmoAmJHkDT0UMep4lep9LWnkG1Y+NWroC5V4Hw\n0WpWChnGqwKBgAQNQcO/5JUfZylcntU+eUjbSl5GkGOHJ0moQUYOMTfZe4Lomg6M\nOiURJWJ/XEGQxsvvYEJpcB7pio12n9TaProqLjo4WuyaHfaqgqT5/ZAXVavCxI52\naA2zacS8I24CzhKJldt62JUlYuEh0oZVlDfRfYvafvYqbGWGo7hnw2yBAoGAdcK1\nPEfjLOMTE7Ajq7AIMnR8O7nZRyu/yx4+94RbjObVt5iE1/ixkD65R0LYEs+ATZTf\nXK+Pt89EVqDj6+caDrfAiFCwdovRaJBLgty2s/BvXLMgCCQHfASM0O1E5auC/GXv\na864Cd4WLGkjDzHzMWpepOLabswzMoe+ofS7VykCgYBrt1bNGRGDjDNAq2DVA5Se\nQBxXO8a7+sd4WMBKExi5Gm7gbIkq6VcTKBfIp5cvxbMfhN2NmWABUW2OIV6W07FJ\nySCZXVsxZG8ThdFlWsqWNZ5yI+vwlv5/S/7T/XH++RsZBSz7xKijx1Z1gNaHo/vW\n/a9Fsa4aUDjt2h9aZ5utfA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-kjf6-0odmud-bdfa6f2j6bwk52@avian-sandbox-322012.iam.gserviceaccount.com",
+  "client_id": "110719935209585735732",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-kjf6-0odmud-bdfa6f2j6bwk52%40avian-sandbox-322012.iam.gserviceaccount.com"
+}
